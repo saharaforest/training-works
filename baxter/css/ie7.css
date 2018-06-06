@@ -1,0 +1,9 @@
+#bForm input {
+    margin-bottom: 9px; /*уменьшили на 1. Ну и дальше - так же.*/
+    line-height: 31px;
+}
+
+#bForm input.button {
+    padding: 25px 0 0 0; /*вместо 27*/
+}
+
